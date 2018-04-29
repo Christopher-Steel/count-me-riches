@@ -1,0 +1,27 @@
+-
+  label: immerse learning salary
+  freq: monthly
+  day: 28
+  amount: 2013.93
+-
+  label: cancelling of food expenses while at mums
+  freq: daily
+  starts: 2015-12-20
+  expires: 2015-12-31
+  amount: 8
+-
+  label: immerse salary sacrifice cancelling
+  freq: once
+  date: 2015-12-28
+  amount: 182.24
+-
+  label: immerse salary paid earlier
+  freq: once
+  date: 2015-12-14
+  amount: 1877.97
+-
+  label: halving of food expenses until jan pay
+  freq: daily
+  starts: 2016-01-05
+  expires: 2016-01-28
+  amount: 4

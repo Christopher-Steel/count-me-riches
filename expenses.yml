@@ -1,0 +1,79 @@
+-
+  label: rent
+  freq: monthly
+  day: 15
+  amount: 900
+-
+  label: food
+  freq: daily
+  amount: 8
+-
+  label: tfl
+  freq: monthly
+  day: 17
+  amount: 177.10
+  expires: 2015-11-17
+-
+  label: gym
+  freq: monthly
+  day: 23
+  amount: 22.99
+-
+  label: savings
+  freq: monthly
+  day: 1
+  amount: 400
+  starts: 2016-02-01
+-
+  label: unpaid november 15th half-rent
+  freq: once
+  date: 2015-11-28
+  amount: 450
+-
+  label: christmas plane
+  freq: once
+  date: 2015-12-01
+  amount: 205.72
+-
+  label: bike
+  freq: once
+  date: 2015-12-12
+  amount: 250
+-
+  label: train to buy bike
+  freq: once
+  date: 2015-12-12
+  amount: 41
+-
+  label: bike helmet
+  freq: once
+  date: 2015-12-11
+  amount: 49.99
+-
+  label: bike gloves
+  freq: once
+  date: 2015-12-11
+  amount: 29.99
+-
+  label: mouse
+  freq: once
+  date: 2015-12-13
+  amount: 21.98
+-
+  label: immerse salary sacrifice investment
+  freq: monthly
+  day: 28
+  amount: 182.24
+  starts: 2015-12-28
+  expires: 2016-01-28
+-
+  label: immerse salary cancelling (paid earlier)
+  freq: once
+  date: 2015-12-28
+  amount: 2013.93
+-
+  label: PS Vita right joystick replacement part
+  freq: once
+  date: 2016-01-02
+  amount: 8.46
+ 
